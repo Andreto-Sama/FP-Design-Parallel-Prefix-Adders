@@ -1,0 +1,13 @@
+../fp_components/subcomponents/package.sv
+../fp_components/fp_div/fp_div.sv 
+../fp_components/fp_div/div_sigcalc.sv 
+../fp_components/fp_div/exception_div.sv 
+../fp_components/subcomponents/op_mux.sv 
+../fp_components/subcomponents/OTFconversion.sv 
+../fp_components/subcomponents/selection_inv_div.sv 
+../fp_components/subcomponents/round_mac_div.sv 
+../fp_components/subcomponents/CSA.sv
+../fp_components/subcomponents/KSA.sv
+../fp_components/subcomponents/BKA.sv
+../fp_components/subcomponents/LFA.sv
+../fp_components/subcomponents/HCA.sv

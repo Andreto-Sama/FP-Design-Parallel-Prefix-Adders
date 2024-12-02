@@ -1,0 +1,10 @@
+../fp_components/subcomponents/package.sv
+../fp_components/fp_sqrt/fp_sqrt.sv 
+../fp_components/fp_sqrt/sqrt_sigcalc.sv 
+../fp_components/fp_sqrt/exception_sqrt.sv 
+../fp_components/subcomponents/round_gs.sv
+../fp_components/fp_sqrt/rem_calc.sv 
+../fp_components/subcomponents/KSA.sv
+../fp_components/subcomponents/BKA.sv
+../fp_components/subcomponents/LFA.sv
+../fp_components/subcomponents/HCA.sv

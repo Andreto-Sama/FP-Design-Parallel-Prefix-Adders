@@ -1,0 +1,14 @@
+../fp_components/subcomponents/package.sv
+../fp_components/fp_addsub/fp_addsub.sv 
+../fp_components/fp_addsub/exception_addsub.sv 
+../fp_components/fp_addsub/addsub.sv 
+../fp_components/fp_addsub/align_addsub.sv 
+../fp_components/fp_addsub/exp_sub.sv 
+../fp_components/fp_addsub/normalize_addsub.sv 
+../fp_components/fp_addsub/sign_addsub.sv 
+../fp_components/subcomponents/round_grs.sv 
+../fp_components/subcomponents/LZC.sv
+../fp_components/subcomponents/KSA.sv
+../fp_components/subcomponents/BKA.sv
+../fp_components/subcomponents/LFA.sv
+../fp_components/subcomponents/HCA.sv

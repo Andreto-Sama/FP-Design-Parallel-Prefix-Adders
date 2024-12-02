@@ -1,0 +1,10 @@
+../fp_components/subcomponents/package.sv
+../fp_components/fp_mult/fp_mult.sv 
+../fp_components/fp_mult/exception_mult.sv 
+../fp_components/fp_mult/normalize_mult.sv 
+../fp_components/fp_mult/round_mult.sv 
+../fp_components/subcomponents/multiplier.sv
+../fp_components/subcomponents/KSA.sv
+../fp_components/subcomponents/BKA.sv
+../fp_components/subcomponents/LFA.sv
+../fp_components/subcomponents/HCA.sv

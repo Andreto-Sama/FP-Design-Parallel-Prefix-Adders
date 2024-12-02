@@ -1,0 +1,15 @@
+../fp_components/subcomponents/package.sv
+../fp_components/fp_mac/fp_mac.sv 
+../fp_components/fp_mac/exception_mac.sv 
+../fp_components/subcomponents/round_mac_div.sv 
+../fp_components/subcomponents/multiplier.sv
+../fp_components/fp_mac/normalize_mac.sv 
+../fp_components/fp_mac/add.sv
+../fp_components/fp_mac/align_mac.sv 
+../fp_components/fp_mac/exp_logic.sv 
+../fp_components/fp_mac/sign_mac.sv 
+../fp_components/subcomponents/LZC.sv
+../fp_components/subcomponents/KSA.sv
+../fp_components/subcomponents/BKA.sv
+../fp_components/subcomponents/LFA.sv
+../fp_components/subcomponents/HCA.sv
